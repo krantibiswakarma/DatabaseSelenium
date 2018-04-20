@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="328" started-at="2018-04-18T02:43:08Z" finished-at="2018-04-18T02:43:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="328" started-at="2018-04-18T02:43:08Z" finished-at="2018-04-18T02:43:08Z">
+      <class name="RestAssuredGroup.databaseTesting.dataProviderTest">
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:RestAssuredGroup.databaseTesting.dataProviderTest@6a03af]" name="f" duration-ms="5" started-at="2018-04-17T22:43:08Z" data-provider="dp" finished-at="2018-04-17T22:43:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Biswakarma]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Kranti]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[kranti.b21@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- RestAssuredGroup.databaseTesting.dataProviderTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
